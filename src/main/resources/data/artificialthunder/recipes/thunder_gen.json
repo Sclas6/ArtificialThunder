@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "L#L",
+    "OIO",
+    "O/O"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lightning_rod"
+    },
+    "I": {
+      "item": "minecraft:trident"
+    },
+    "L": {
+      "item": "minecraft:redstone_torch"
+    },
+    "/": {
+      "item": "minecraft:iron_block"
+    },
+    "O": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "artificialthunder:thunder_gen"
+  }
+}
