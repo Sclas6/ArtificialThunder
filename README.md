@@ -1,5 +1,4 @@
 # ArtificialThunder
-### Kemono Friends For Minecraft
 ## Dependancies
 * Minecraft 1.18
 * Forge 40.2.10
